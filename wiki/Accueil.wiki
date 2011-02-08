@@ -1,4 +1,4 @@
-#summary La page d'accueil du wiki
+#summary The wiki's host page
 
 = Introduction =
 
@@ -21,5 +21,4 @@ How to use it in command-line:
 The parser is specific to the module and implements several options: 
 
 See here for a list of the options: 
-<a> List of options</a> 
-
+ 
