@@ -1,5 +1,5 @@
 #summary This is the complete options list for the specific sqlite2mysql module. It is ordered by requirements in the command-line.
-#labels a
+#labels options
 
 
 = Details =
