@@ -4,7 +4,7 @@
 
 = Details =
 
-Required parameters:
+<b>Required parameters:</b>
 
 -f | --file:   sqlite database file.
 
@@ -19,7 +19,7 @@ Use only one of the two following options:
 -e | --execute: Execute the program using all the parameters given and transfers the sqlite database into the given void MySQL database. 
 
 
-Optional parameters:
+<b><s>Optional parameters:</s></b>
 
 -s | --server  : Name of the distant MySQL server. If the server is local the program automatically uses the my.ini configuration. 
 
