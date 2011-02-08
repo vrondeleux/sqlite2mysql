@@ -21,4 +21,4 @@ How to use it in command-line:
 The parser is specific to the module and implements several options: 
 
 See here for a list of the options: 
- 
+<a src="http://code.google.com/p/sqlite2mysql/wiki/OptionsList"> Options List <a> 
